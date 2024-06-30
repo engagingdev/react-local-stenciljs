@@ -33,7 +33,7 @@ function ChildComponentOne({ count }) {
 
       <custom-rtf 
 initialvalue="initialvalue from React" 
-disabled="isEditorDisabled"
+disabled="false"
 >
 </custom-rtf>
     </div>
